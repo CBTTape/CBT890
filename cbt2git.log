@@ -1,0 +1,388 @@
+2025-04-13 23:50:30.054982 - Received CBT.V508.FILE890.PDS from FILE890.XMI 
+2025-04-13 23:50:30.059568 - Found $$$#DATE.txt (text/plain) in CBT.V508.FILE890.PDS, moved to PDS/$$$#DATE
+2025-04-13 23:50:30.059675 - Found $$INTRO1.txt (text/plain) in CBT.V508.FILE890.PDS, moved to PDS/$$INTRO1
+2025-04-13 23:50:30.059759 - Found $$NOTE01.txt (text/plain) in CBT.V508.FILE890.PDS, moved to PDS/$$NOTE01
+2025-04-13 23:50:30.059858 - Found $DOCKEY.txt (text/plain) in CBT.V508.FILE890.PDS, moved to PDS/$DOCKEY
+2025-04-13 23:50:30.059937 - Found $FREENOW.txt (text/plain) in CBT.V508.FILE890.PDS, moved to PDS/$FREENOW
+2025-04-13 23:50:30.060013 - Found $GUIDES1.txt (text/plain) in CBT.V508.FILE890.PDS, moved to PDS/$GUIDES1
+2025-04-13 23:50:30.060094 - Found $GUIDES2.txt (text/plain) in CBT.V508.FILE890.PDS, moved to PDS/$GUIDES2
+2025-04-13 23:50:30.060172 - Found $LINKS.txt (text/plain) in CBT.V508.FILE890.PDS, moved to PDS/$LINKS
+2025-04-13 23:50:30.060251 - Found @FILE890.txt (text/plain) in CBT.V508.FILE890.PDS, moved to PDS/@FILE890
+2025-04-13 23:50:30.060325 - Found HELLO.jcl (text/plain) in CBT.V508.FILE890.PDS, moved to PDS/HELLO
+2025-04-13 23:50:30.060400 - Found HELLO1.jcl (text/plain) in CBT.V508.FILE890.PDS, moved to PDS/HELLO1
+2025-04-13 23:50:30.060477 - Found HELLO2.jcl (text/plain) in CBT.V508.FILE890.PDS, moved to PDS/HELLO2
+2025-04-13 23:50:30.060743 - Found SCB00.pdf (application/pdf) in CBT.V508.FILE890.PDS, moved to docs/SCB00.pdf
+2025-04-13 23:50:30.061132 - Found SCB01.pdf (application/pdf) in CBT.V508.FILE890.PDS, moved to docs/SCB01.pdf
+2025-04-13 23:50:30.061414 - Found SCB02.pdf (application/pdf) in CBT.V508.FILE890.PDS, moved to docs/SCB02.pdf
+2025-04-13 23:50:30.061563 - Found SCB03.pdf (application/pdf) in CBT.V508.FILE890.PDS, moved to docs/SCB03.pdf
+2025-04-13 23:50:30.061745 - Found SCB04.pdf (application/pdf) in CBT.V508.FILE890.PDS, moved to docs/SCB04.pdf
+2025-04-13 23:50:30.061859 - Found SCB05.pdf (application/pdf) in CBT.V508.FILE890.PDS, moved to docs/SCB05.pdf
+2025-04-13 23:50:30.062091 - Found SCB06.pdf (application/pdf) in CBT.V508.FILE890.PDS, moved to docs/SCB06.pdf
+2025-04-13 23:50:30.062296 - Found SCB07.pdf (application/pdf) in CBT.V508.FILE890.PDS, moved to docs/SCB07.pdf
+2025-04-13 23:50:30.062468 - Found SCB08.pdf (application/pdf) in CBT.V508.FILE890.PDS, moved to docs/SCB08.pdf
+2025-04-13 23:50:30.062741 - Found SCB09.pdf (application/pdf) in CBT.V508.FILE890.PDS, moved to docs/SCB09.pdf
+2025-04-13 23:50:30.063064 - Found SCB10.pdf (application/pdf) in CBT.V508.FILE890.PDS, moved to docs/SCB10.pdf
+2025-04-13 23:50:30.063497 - Found SCB11.pdf (application/pdf) in CBT.V508.FILE890.PDS, moved to docs/SCB11.pdf
+2025-04-13 23:50:30.063705 - Found SCB12.pdf (application/pdf) in CBT.V508.FILE890.PDS, moved to docs/SCB12.pdf
+2025-04-13 23:50:30.063811 - Found SCB13.pdf (application/pdf) in CBT.V508.FILE890.PDS, moved to docs/SCB13.pdf
+2025-04-13 23:50:30.064303 - Found SCB14.pdf (application/pdf) in CBT.V508.FILE890.PDS, moved to docs/SCB14.pdf
+2025-04-13 23:50:30.064428 - Found SCB15.pdf (application/pdf) in CBT.V508.FILE890.PDS, moved to docs/SCB15.pdf
+2025-04-13 23:50:30.064533 - Found SCB16.pdf (application/pdf) in CBT.V508.FILE890.PDS, moved to docs/SCB16.pdf
+2025-04-13 23:50:30.064643 - Found SCB17.pdf (application/pdf) in CBT.V508.FILE890.PDS, moved to docs/SCB17.pdf
+2025-04-13 23:50:30.064745 - Found SCB18.pdf (application/pdf) in CBT.V508.FILE890.PDS, moved to docs/SCB18.pdf
+2025-04-13 23:50:30.064842 - Found SCB19.pdf (application/pdf) in CBT.V508.FILE890.PDS, moved to docs/SCB19.pdf
+2025-04-13 23:50:30.065009 - Found SCB20.pdf (application/pdf) in CBT.V508.FILE890.PDS, moved to docs/SCB20.pdf
+2025-04-13 23:50:30.065572 - Found SEPL.pdf (application/pdf) in CBT.V508.FILE890.PDS, moved to docs/SEPL.pdf
+2025-04-13 23:50:30.065726 - Found SIG00.pdf (application/pdf) in CBT.V508.FILE890.PDS, moved to docs/SIG00.pdf
+2025-04-13 23:50:30.066596 - Found SIG01.pdf (application/pdf) in CBT.V508.FILE890.PDS, moved to docs/SIG01.pdf
+2025-04-13 23:50:30.067130 - Found SIG02.pdf (application/pdf) in CBT.V508.FILE890.PDS, moved to docs/SIG02.pdf
+2025-04-13 23:50:30.067278 - Found SIG03.pdf (application/pdf) in CBT.V508.FILE890.PDS, moved to docs/SIG03.pdf
+2025-04-13 23:50:30.067402 - Found SIG04.pdf (application/pdf) in CBT.V508.FILE890.PDS, moved to docs/SIG04.pdf
+2025-04-13 23:50:30.067577 - Found SIG05.pdf (application/pdf) in CBT.V508.FILE890.PDS, moved to docs/SIG05.pdf
+2025-04-13 23:50:30.067830 - Found SIG06.pdf (application/pdf) in CBT.V508.FILE890.PDS, moved to docs/SIG06.pdf
+2025-04-13 23:50:30.068322 - Found SIG07.pdf (application/pdf) in CBT.V508.FILE890.PDS, moved to docs/SIG07.pdf
+2025-04-13 23:50:30.068502 - Found SIG08.pdf (application/pdf) in CBT.V508.FILE890.PDS, moved to docs/SIG08.pdf
+2025-04-13 23:50:30.068606 - Found SIG09.pdf (application/pdf) in CBT.V508.FILE890.PDS, moved to docs/SIG09.pdf
+2025-04-13 23:50:30.068709 - Found SIG10.pdf (application/pdf) in CBT.V508.FILE890.PDS, moved to docs/SIG10.pdf
+2025-04-13 23:50:30.068845 - Found SIG11.pdf (application/pdf) in CBT.V508.FILE890.PDS, moved to docs/SIG11.pdf
+2025-04-13 23:50:30.068950 - Found SIG12.pdf (application/pdf) in CBT.V508.FILE890.PDS, moved to docs/SIG12.pdf
+2025-04-13 23:50:30.069050 - Found SIG13.pdf (application/pdf) in CBT.V508.FILE890.PDS, moved to docs/SIG13.pdf
+2025-04-13 23:50:30.069178 - Found SIG14.pdf (application/pdf) in CBT.V508.FILE890.PDS, moved to docs/SIG14.pdf
+2025-04-13 23:50:30.069320 - Found SIG15.pdf (application/pdf) in CBT.V508.FILE890.PDS, moved to docs/SIG15.pdf
+2025-04-13 23:50:30.069518 - Found SIG16.pdf (application/pdf) in CBT.V508.FILE890.PDS, moved to docs/SIG16.pdf
+2025-04-13 23:50:30.069664 - Found SIG17.pdf (application/pdf) in CBT.V508.FILE890.PDS, moved to docs/SIG17.pdf
+2025-04-13 23:50:30.069786 - Found SIG18.pdf (application/pdf) in CBT.V508.FILE890.PDS, moved to docs/SIG18.pdf
+2025-04-13 23:50:30.069936 - Found SIG19.pdf (application/pdf) in CBT.V508.FILE890.PDS, moved to docs/SIG19.pdf
+2025-04-13 23:50:30.070061 - Found SIG20.pdf (application/pdf) in CBT.V508.FILE890.PDS, moved to docs/SIG20.pdf
+2025-04-13 23:50:30.070463 - Found SIG21.pdf (application/pdf) in CBT.V508.FILE890.PDS, moved to docs/SIG21.pdf
+2025-04-13 23:50:30.071090 - Found SIG22.pdf (application/pdf) in CBT.V508.FILE890.PDS, moved to docs/SIG22.pdf
+2025-04-13 23:50:30.071674 - Found SIMULA.xmi (application/xmit) in CBT.V508.FILE890.PDS, moved to PDS/SIMULA.xmi
+2025-04-13 23:50:30.365268 - Received SYS2.SIMULA.LINKLIB from SIMULA.xmi 
+2025-04-13 23:50:30.371236 - Found alias BITS to ENVIRONM in SYS2.SIMULA.LINKLIB, moved to PDS/BITS
+2025-04-13 23:50:30.371278 - Found alias BITSINCH to ENVIRONM in SYS2.SIMULA.LINKLIB, moved to PDS/BITSINCH
+2025-04-13 23:50:30.371306 - Found alias BITSININ to ENVIRONM in SYS2.SIMULA.LINKLIB, moved to PDS/BITSININ
+2025-04-13 23:50:30.371334 - Found alias BITSINLR to ENVIRONM in SYS2.SIMULA.LINKLIB, moved to PDS/BITSINLR
+2025-04-13 23:50:30.371361 - Found alias BITSINRE to ENVIRONM in SYS2.SIMULA.LINKLIB, moved to PDS/BITSINRE
+2025-04-13 23:50:30.371387 - Found alias BITSINRF to ENVIRONM in SYS2.SIMULA.LINKLIB, moved to PDS/BITSINRF
+2025-04-13 23:50:30.371416 - Found alias BITSINSI to ENVIRONM in SYS2.SIMULA.LINKLIB, moved to PDS/BITSINSI
+2025-04-13 23:50:30.371565 - Found BREAKOUT.bin (application/octet-stream) in SYS2.SIMULA.LINKLIB, moved to SIMULA/BREAKOUT
+2025-04-13 23:50:30.371658 - Found CLOCK.bin (application/octet-stream) in SYS2.SIMULA.LINKLIB, moved to SIMULA/CLOCK
+2025-04-13 23:50:30.371723 - Found CODE.bin (application/octet-stream) in SYS2.SIMULA.LINKLIB, moved to SIMULA/CODE
+2025-04-13 23:50:30.371784 - Found CONC.bin (application/octet-stream) in SYS2.SIMULA.LINKLIB, moved to SIMULA/CONC
+2025-04-13 23:50:30.371845 - Found CONCDATA.bin (application/octet-stream) in SYS2.SIMULA.LINKLIB, moved to SIMULA/CONCDATA
+2025-04-13 23:50:30.371994 - Found CONVERT.bin (application/octet-stream) in SYS2.SIMULA.LINKLIB, moved to SIMULA/CONVERT
+2025-04-13 23:50:30.372064 - Found COPYTEXT.bin (application/octet-stream) in SYS2.SIMULA.LINKLIB, moved to SIMULA/COPYTEXT
+2025-04-13 23:50:30.372137 - Found CPUTIME.bin (application/octet-stream) in SYS2.SIMULA.LINKLIB, moved to SIMULA/CPUTIME
+2025-04-13 23:50:30.372201 - Found DATE.bin (application/octet-stream) in SYS2.SIMULA.LINKLIB, moved to SIMULA/DATE
+2025-04-13 23:50:30.372261 - Found DEBUG.bin (application/octet-stream) in SYS2.SIMULA.LINKLIB, moved to SIMULA/DEBUG
+2025-04-13 23:50:30.372319 - Found DEBUGDAT.bin (application/octet-stream) in SYS2.SIMULA.LINKLIB, moved to SIMULA/DEBUGDAT
+2025-04-13 23:50:30.372377 - Found DEBUGDTA.bin (application/octet-stream) in SYS2.SIMULA.LINKLIB, moved to SIMULA/DEBUGDTA
+2025-04-13 23:50:30.372435 - Found DUMPEXIT.bin (application/octet-stream) in SYS2.SIMULA.LINKLIB, moved to SIMULA/DUMPEXIT
+2025-04-13 23:50:30.372492 - Found DUMPUT.bin (application/octet-stream) in SYS2.SIMULA.LINKLIB, moved to SIMULA/DUMPUT
+2025-04-13 23:50:30.372552 - Found DUMPUTDA.bin (application/octet-stream) in SYS2.SIMULA.LINKLIB, moved to SIMULA/DUMPUTDA
+2025-04-13 23:50:30.372609 - Found ENVIRONM.bin (application/octet-stream) in SYS2.SIMULA.LINKLIB, moved to SIMULA/ENVIRONM
+2025-04-13 23:50:30.372672 - Found ERROR.bin (application/octet-stream) in SYS2.SIMULA.LINKLIB, moved to SIMULA/ERROR
+2025-04-13 23:50:30.372730 - Found FILENADA.bin (application/octet-stream) in SYS2.SIMULA.LINKLIB, moved to SIMULA/FILENADA
+2025-04-13 23:50:30.372790 - Found FILENAME.bin (application/octet-stream) in SYS2.SIMULA.LINKLIB, moved to SIMULA/FILENAME
+2025-04-13 23:50:30.372848 - Found FREENAME.bin (application/octet-stream) in SYS2.SIMULA.LINKLIB, moved to SIMULA/FREENAME
+2025-04-13 23:50:30.372902 - Found alias GET to PUT in SYS2.SIMULA.LINKLIB, moved to PDS/GET
+2025-04-13 23:50:30.372960 - Found GETID.bin (application/octet-stream) in SYS2.SIMULA.LINKLIB, moved to SIMULA/GETID
+2025-04-13 23:50:30.373034 - Found GETIDDAT.bin (application/octet-stream) in SYS2.SIMULA.LINKLIB, moved to SIMULA/GETIDDAT
+2025-04-13 23:50:30.373096 - Found HEX.bin (application/octet-stream) in SYS2.SIMULA.LINKLIB, moved to SIMULA/HEX
+2025-04-13 23:50:30.373167 - Found HEXD.bin (application/octet-stream) in SYS2.SIMULA.LINKLIB, moved to SIMULA/HEXD
+2025-04-13 23:50:30.373222 - Found alias HEXDUMP to CODE in SYS2.SIMULA.LINKLIB, moved to PDS/HEXDUMP
+2025-04-13 23:50:30.373281 - Found ID.bin (application/octet-stream) in SYS2.SIMULA.LINKLIB, moved to SIMULA/ID
+2025-04-13 23:50:30.373342 - Found INVOKE.bin (application/octet-stream) in SYS2.SIMULA.LINKLIB, moved to SIMULA/INVOKE
+2025-04-13 23:50:30.373389 - Found alias ISOCHAR to ISORANK in SYS2.SIMULA.LINKLIB, moved to PDS/ISOCHAR
+2025-04-13 23:50:30.373449 - Found ISODATA.bin (application/octet-stream) in SYS2.SIMULA.LINKLIB, moved to SIMULA/ISODATA
+2025-04-13 23:50:30.373510 - Found ISORANK.bin (application/octet-stream) in SYS2.SIMULA.LINKLIB, moved to SIMULA/ISORANK
+2025-04-13 23:50:30.373570 - Found LINECNT.bin (application/octet-stream) in SYS2.SIMULA.LINKLIB, moved to SIMULA/LINECNT
+2025-04-13 23:50:30.373620 - Found alias MAX to MIN in SYS2.SIMULA.LINKLIB, moved to PDS/MAX
+2025-04-13 23:50:30.373650 - Found alias MAXINT to ENVIRONM in SYS2.SIMULA.LINKLIB, moved to PDS/MAXINT
+2025-04-13 23:50:30.373707 - Found MAXLOC.bin (application/octet-stream) in SYS2.SIMULA.LINKLIB, moved to SIMULA/MAXLOC
+2025-04-13 23:50:30.373750 - Found alias MAXLONGR to ENVIRONM in SYS2.SIMULA.LINKLIB, moved to PDS/MAXLONGR
+2025-04-13 23:50:30.373780 - Found alias MAXREAL to ENVIRONM in SYS2.SIMULA.LINKLIB, moved to PDS/MAXREAL
+2025-04-13 23:50:30.373807 - Found alias MAXSHORT to ENVIRONM in SYS2.SIMULA.LINKLIB, moved to PDS/MAXSHORT
+2025-04-13 23:50:30.373865 - Found MIN.bin (application/octet-stream) in SYS2.SIMULA.LINKLIB, moved to SIMULA/MIN
+2025-04-13 23:50:30.373928 - Found NO.bin (application/octet-stream) in SYS2.SIMULA.LINKLIB, moved to SIMULA/NO
+2025-04-13 23:50:30.373977 - Found alias NOTRACE to TRACE in SYS2.SIMULA.LINKLIB, moved to PDS/NOTRACE
+2025-04-13 23:50:30.374033 - Found OBJCOPY.bin (application/octet-stream) in SYS2.SIMULA.LINKLIB, moved to SIMULA/OBJCOPY
+2025-04-13 23:50:30.374094 - Found OBJEQUAL.bin (application/octet-stream) in SYS2.SIMULA.LINKLIB, moved to SIMULA/OBJEQUAL
+2025-04-13 23:50:30.374182 - Found OPENEXIT.bin (application/octet-stream) in SYS2.SIMULA.LINKLIB, moved to SIMULA/OPENEXIT
+2025-04-13 23:50:30.374244 - Found PARM.bin (application/octet-stream) in SYS2.SIMULA.LINKLIB, moved to SIMULA/PARM
+2025-04-13 23:50:30.374313 - Found PARMDATA.bin (application/octet-stream) in SYS2.SIMULA.LINKLIB, moved to SIMULA/PARMDATA
+2025-04-13 23:50:30.374373 - Found PUT.bin (application/octet-stream) in SYS2.SIMULA.LINKLIB, moved to SIMULA/PUT
+2025-04-13 23:50:30.374432 - Found READINDA.bin (application/octet-stream) in SYS2.SIMULA.LINKLIB, moved to SIMULA/READINDA
+2025-04-13 23:50:30.374498 - Found READINTO.bin (application/octet-stream) in SYS2.SIMULA.LINKLIB, moved to SIMULA/READINTO
+2025-04-13 23:50:30.374560 - Found SETCC.bin (application/octet-stream) in SYS2.SIMULA.LINKLIB, moved to SIMULA/SETCC
+2025-04-13 23:50:30.374619 - Found SETRECL.bin (application/octet-stream) in SYS2.SIMULA.LINKLIB, moved to SIMULA/SETRECL
+2025-04-13 23:50:30.374680 - Found SETTIME.bin (application/octet-stream) in SYS2.SIMULA.LINKLIB, moved to SIMULA/SETTIME
+2025-04-13 23:50:30.374742 - Found SETTIMED.bin (application/octet-stream) in SYS2.SIMULA.LINKLIB, moved to SIMULA/SETTIMED
+2025-04-13 23:50:30.374799 - Found SIMCNT.bin (application/octet-stream) in SYS2.SIMULA.LINKLIB, moved to SIMULA/SIMCNT
+2025-04-13 23:50:30.374894 - Found SIMDEBUG.bin (application/octet-stream) in SYS2.SIMULA.LINKLIB, moved to SIMULA/SIMDEBUG
+2025-04-13 23:50:30.375164 - Found SIMULA.bin (application/octet-stream) in SYS2.SIMULA.LINKLIB, moved to SIMULA/SIMULA
+2025-04-13 23:50:30.375218 - Found alias SMALLONG to ENVIRONM in SYS2.SIMULA.LINKLIB, moved to PDS/SMALLONG
+2025-04-13 23:50:30.375252 - Found alias SMALLREA to ENVIRONM in SYS2.SIMULA.LINKLIB, moved to PDS/SMALLREA
+2025-04-13 23:50:30.375336 - Found SYMBDUMP.bin (application/octet-stream) in SYS2.SIMULA.LINKLIB, moved to SIMULA/SYMBDUMP
+2025-04-13 23:50:30.375407 - Found TIMEOFDA.bin (application/octet-stream) in SYS2.SIMULA.LINKLIB, moved to SIMULA/TIMEOFDA
+2025-04-13 23:50:30.375467 - Found TIMER.bin (application/octet-stream) in SYS2.SIMULA.LINKLIB, moved to SIMULA/TIMER
+2025-04-13 23:50:30.375515 - Found alias TIMEUSED to CPUTIME in SYS2.SIMULA.LINKLIB, moved to PDS/TIMEUSED
+2025-04-13 23:50:30.375571 - Found TRACE.bin (application/octet-stream) in SYS2.SIMULA.LINKLIB, moved to SIMULA/TRACE
+2025-04-13 23:50:30.375621 - Found alias TRACECNT to TRACE in SYS2.SIMULA.LINKLIB, moved to PDS/TRACECNT
+2025-04-13 23:50:30.375659 - Found alias TRACEOFF to TRACE in SYS2.SIMULA.LINKLIB, moved to PDS/TRACEOFF
+2025-04-13 23:50:30.375693 - Found alias TRACEON to TRACE in SYS2.SIMULA.LINKLIB, moved to PDS/TRACEON
+2025-04-13 23:50:30.375726 - Found alias TRACETXT to TRACE in SYS2.SIMULA.LINKLIB, moved to PDS/TRACETXT
+2025-04-13 23:50:30.375786 - Found WRITEODT.bin (application/octet-stream) in SYS2.SIMULA.LINKLIB, moved to SIMULA/WRITEODT
+2025-04-13 23:50:30.375860 - Found WRITEOUT.bin (application/octet-stream) in SYS2.SIMULA.LINKLIB, moved to SIMULA/WRITEOUT
+2025-04-13 23:50:30.375932 - Found ZYQACC.bin (application/octet-stream) in SYS2.SIMULA.LINKLIB, moved to SIMULA/ZYQACC
+2025-04-13 23:50:30.375995 - Found ZYQACCUM.bin (application/octet-stream) in SYS2.SIMULA.LINKLIB, moved to SIMULA/ZYQACCUM
+2025-04-13 23:50:30.376054 - Found ZYQACTIV.bin (application/octet-stream) in SYS2.SIMULA.LINKLIB, moved to SIMULA/ZYQACTIV
+2025-04-13 23:50:30.376113 - Found alias ZYQARRAY to ZYQENT in SYS2.SIMULA.LINKLIB, moved to PDS/ZYQARRAY
+2025-04-13 23:50:30.376178 - Found ZYQATTN.bin (application/octet-stream) in SYS2.SIMULA.LINKLIB, moved to SIMULA/ZYQATTN
+2025-04-13 23:50:30.376244 - Found ZYQBC.bin (application/octet-stream) in SYS2.SIMULA.LINKLIB, moved to SIMULA/ZYQBC
+2025-04-13 23:50:30.376304 - Found ZYQBLANK.bin (application/octet-stream) in SYS2.SIMULA.LINKLIB, moved to SIMULA/ZYQBLANK
+2025-04-13 23:50:30.376368 - Found ZYQBPB.bin (application/octet-stream) in SYS2.SIMULA.LINKLIB, moved to SIMULA/ZYQBPB
+2025-04-13 23:50:30.376425 - Found alias ZYQBSC to ZYQENT in SYS2.SIMULA.LINKLIB, moved to PDS/ZYQBSC
+2025-04-13 23:50:30.376481 - Found ZYQCALL.bin (application/octet-stream) in SYS2.SIMULA.LINKLIB, moved to SIMULA/ZYQCALL
+2025-04-13 23:50:30.376542 - Found ZYQCANCE.bin (application/octet-stream) in SYS2.SIMULA.LINKLIB, moved to SIMULA/ZYQCANCE
+2025-04-13 23:50:30.376616 - Found alias ZYQCARDI to ZYQSIMSC in SYS2.SIMULA.LINKLIB, moved to PDS/ZYQCARDI
+2025-04-13 23:50:30.376674 - Found ZYQCCP.bin (application/octet-stream) in SYS2.SIMULA.LINKLIB, moved to SIMULA/ZYQCCP
+2025-04-13 23:50:30.376736 - Found ZYQCCVP.bin (application/octet-stream) in SYS2.SIMULA.LINKLIB, moved to SIMULA/ZYQCCVP
+2025-04-13 23:50:30.376795 - Found ZYQCDGEN.bin (application/octet-stream) in SYS2.SIMULA.LINKLIB, moved to SIMULA/ZYQCDGEN
+2025-04-13 23:50:30.376856 - Found ZYQCDP.bin (application/octet-stream) in SYS2.SIMULA.LINKLIB, moved to SIMULA/ZYQCDP
+2025-04-13 23:50:30.376914 - Found ZYQCDVP.bin (application/octet-stream) in SYS2.SIMULA.LINKLIB, moved to SIMULA/ZYQCDVP
+2025-04-13 23:50:30.376971 - Found ZYQCEP.bin (application/octet-stream) in SYS2.SIMULA.LINKLIB, moved to SIMULA/ZYQCEP
+2025-04-13 23:50:30.377028 - Found ZYQCFP.bin (application/octet-stream) in SYS2.SIMULA.LINKLIB, moved to SIMULA/ZYQCFP
+2025-04-13 23:50:30.377096 - Found alias ZYQCLEAR to ZYQSIMSC in SYS2.SIMULA.LINKLIB, moved to PDS/ZYQCLEAR
+2025-04-13 23:50:30.377136 - Found alias ZYQCLOSE to ZYQENT in SYS2.SIMULA.LINKLIB, moved to PDS/ZYQCLOSE
+2025-04-13 23:50:30.377202 - Found ZYQCOM.bin (application/octet-stream) in SYS2.SIMULA.LINKLIB, moved to SIMULA/ZYQCOM
+2025-04-13 23:50:30.377267 - Found ZYQCOMUN.bin (application/octet-stream) in SYS2.SIMULA.LINKLIB, moved to SIMULA/ZYQCOMUN
+2025-04-13 23:50:30.377327 - Found ZYQCONNE.bin (application/octet-stream) in SYS2.SIMULA.LINKLIB, moved to SIMULA/ZYQCONNE
+2025-04-13 23:50:30.377391 - Found ZYQCOPY.bin (application/octet-stream) in SYS2.SIMULA.LINKLIB, moved to SIMULA/ZYQCOPY
+2025-04-13 23:50:30.377453 - Found ZYQCSW.bin (application/octet-stream) in SYS2.SIMULA.LINKLIB, moved to SIMULA/ZYQCSW
+2025-04-13 23:50:30.377512 - Found alias ZYQCTAB to ZYQLASTI in SYS2.SIMULA.LINKLIB, moved to PDS/ZYQCTAB
+2025-04-13 23:50:30.377572 - Found ZYQCURRE.bin (application/octet-stream) in SYS2.SIMULA.LINKLIB, moved to SIMULA/ZYQCURRE
+2025-04-13 23:50:30.377634 - Found ZYQCVP.bin (application/octet-stream) in SYS2.SIMULA.LINKLIB, moved to SIMULA/ZYQCVP
+2025-04-13 23:50:30.377692 - Found alias ZYQDATE to ZYQINIT in SYS2.SIMULA.LINKLIB, moved to PDS/ZYQDATE
+2025-04-13 23:50:30.377749 - Found ZYQDBGDT.bin (application/octet-stream) in SYS2.SIMULA.LINKLIB, moved to SIMULA/ZYQDBGDT
+2025-04-13 23:50:30.377816 - Found ZYQDEBUG.bin (application/octet-stream) in SYS2.SIMULA.LINKLIB, moved to SIMULA/ZYQDEBUG
+2025-04-13 23:50:30.377879 - Found ZYQDEFLT.bin (application/octet-stream) in SYS2.SIMULA.LINKLIB, moved to SIMULA/ZYQDEFLT
+2025-04-13 23:50:30.377939 - Found ZYQDETAC.bin (application/octet-stream) in SYS2.SIMULA.LINKLIB, moved to SIMULA/ZYQDETAC
+2025-04-13 23:50:30.377994 - Found alias ZYQDFILE to ZYQDIREC in SYS2.SIMULA.LINKLIB, moved to PDS/ZYQDFILE
+2025-04-13 23:50:30.378049 - Found ZYQDFTRC.bin (application/octet-stream) in SYS2.SIMULA.LINKLIB, moved to SIMULA/ZYQDFTRC
+2025-04-13 23:50:30.378121 - Found ZYQDIREC.bin (application/octet-stream) in SYS2.SIMULA.LINKLIB, moved to SIMULA/ZYQDIREC
+2025-04-13 23:50:30.378192 - Found ZYQDISCR.bin (application/octet-stream) in SYS2.SIMULA.LINKLIB, moved to SIMULA/ZYQDISCR
+2025-04-13 23:50:30.378259 - Found ZYQDRAW.bin (application/octet-stream) in SYS2.SIMULA.LINKLIB, moved to SIMULA/ZYQDRAW
+2025-04-13 23:50:30.378325 - Found alias ZYQDTACH to ZYQDETAC in SYS2.SIMULA.LINKLIB, moved to PDS/ZYQDTACH
+2025-04-13 23:50:30.378385 - Found ZYQDUMP.bin (application/octet-stream) in SYS2.SIMULA.LINKLIB, moved to SIMULA/ZYQDUMP
+2025-04-13 23:50:30.378450 - Found ZYQDXPD.bin (application/octet-stream) in SYS2.SIMULA.LINKLIB, moved to SIMULA/ZYQDXPD
+2025-04-13 23:50:30.378511 - Found ZYQDXPI.bin (application/octet-stream) in SYS2.SIMULA.LINKLIB, moved to SIMULA/ZYQDXPI
+2025-04-13 23:50:30.378576 - Found ZYQECB.bin (application/octet-stream) in SYS2.SIMULA.LINKLIB, moved to SIMULA/ZYQECB
+2025-04-13 23:50:30.378637 - Found ZYQEJECT.bin (application/octet-stream) in SYS2.SIMULA.LINKLIB, moved to SIMULA/ZYQEJECT
+2025-04-13 23:50:30.378709 - Found alias ZYQEMPTY to ZYQSIMSC in SYS2.SIMULA.LINKLIB, moved to PDS/ZYQEMPTY
+2025-04-13 23:50:30.378773 - Found ZYQENT.bin (application/octet-stream) in SYS2.SIMULA.LINKLIB, moved to SIMULA/ZYQENT
+2025-04-13 23:50:30.378838 - Found ZYQENTVI.bin (application/octet-stream) in SYS2.SIMULA.LINKLIB, moved to SIMULA/ZYQENTVI
+2025-04-13 23:50:30.378899 - Found ZYQEPBPA.bin (application/octet-stream) in SYS2.SIMULA.LINKLIB, moved to SIMULA/ZYQEPBPA
+2025-04-13 23:50:30.378967 - Found ZYQERLAN.bin (application/octet-stream) in SYS2.SIMULA.LINKLIB, moved to SIMULA/ZYQERLAN
+2025-04-13 23:50:30.379029 - Found ZYQERR.bin (application/octet-stream) in SYS2.SIMULA.LINKLIB, moved to SIMULA/ZYQERR
+2025-04-13 23:50:30.379087 - Found alias ZYQERRDP to ZYQERR in SYS2.SIMULA.LINKLIB, moved to PDS/ZYQERRDP
+2025-04-13 23:50:30.379144 - Found ZYQERREX.bin (application/octet-stream) in SYS2.SIMULA.LINKLIB, moved to SIMULA/ZYQERREX
+2025-04-13 23:50:30.379214 - Found ZYQEVD.bin (application/octet-stream) in SYS2.SIMULA.LINKLIB, moved to SIMULA/ZYQEVD
+2025-04-13 23:50:30.379279 - Found ZYQEVTIM.bin (application/octet-stream) in SYS2.SIMULA.LINKLIB, moved to SIMULA/ZYQEVTIM
+2025-04-13 23:50:30.379341 - Found alias ZYQFIELD to ZYQLASTI in SYS2.SIMULA.LINKLIB, moved to PDS/ZYQFIELD
+2025-04-13 23:50:30.379386 - Found alias ZYQFILE to ZYQENT in SYS2.SIMULA.LINKLIB, moved to PDS/ZYQFILE
+2025-04-13 23:50:30.379437 - Found alias ZYQFIRST to ZYQSIMSC in SYS2.SIMULA.LINKLIB, moved to PDS/ZYQFIRST
+2025-04-13 23:50:30.379496 - Found ZYQFIXPI.bin (application/octet-stream) in SYS2.SIMULA.LINKLIB, moved to SIMULA/ZYQFIXPI
+2025-04-13 23:50:30.379568 - Found alias ZYQFOLLO to ZYQSIMSC in SYS2.SIMULA.LINKLIB, moved to PDS/ZYQFOLLO
+2025-04-13 23:50:30.379626 - Found ZYQFORT.bin (application/octet-stream) in SYS2.SIMULA.LINKLIB, moved to SIMULA/ZYQFORT
+2025-04-13 23:50:30.379682 - Found alias ZYQFSA to ZYQENT in SYS2.SIMULA.LINKLIB, moved to PDS/ZYQFSA
+2025-04-13 23:50:30.379739 - Found ZYQGC6.bin (application/octet-stream) in SYS2.SIMULA.LINKLIB, moved to SIMULA/ZYQGC6
+2025-04-13 23:50:30.379802 - Found ZYQGETCH.bin (application/octet-stream) in SYS2.SIMULA.LINKLIB, moved to SIMULA/ZYQGETCH
+2025-04-13 23:50:30.379867 - Found ZYQGETFR.bin (application/octet-stream) in SYS2.SIMULA.LINKLIB, moved to SIMULA/ZYQGETFR
+2025-04-13 23:50:30.379927 - Found ZYQGETIN.bin (application/octet-stream) in SYS2.SIMULA.LINKLIB, moved to SIMULA/ZYQGETIN
+2025-04-13 23:50:30.379987 - Found ZYQGETRE.bin (application/octet-stream) in SYS2.SIMULA.LINKLIB, moved to SIMULA/ZYQGETRE
+2025-04-13 23:50:30.380047 - Found ZYQGL.bin (application/octet-stream) in SYS2.SIMULA.LINKLIB, moved to SIMULA/ZYQGL
+2025-04-13 23:50:30.380106 - Found ZYQGVL.bin (application/octet-stream) in SYS2.SIMULA.LINKLIB, moved to SIMULA/ZYQGVL
+2025-04-13 23:50:30.380177 - Found alias ZYQHEAD to ZYQSIMSC in SYS2.SIMULA.LINKLIB, moved to PDS/ZYQHEAD
+2025-04-13 23:50:30.380245 - Found ZYQHISTD.bin (application/octet-stream) in SYS2.SIMULA.LINKLIB, moved to SIMULA/ZYQHISTD
+2025-04-13 23:50:30.380311 - Found ZYQHISTO.bin (application/octet-stream) in SYS2.SIMULA.LINKLIB, moved to SIMULA/ZYQHISTO
+2025-04-13 23:50:30.380378 - Found ZYQHOLD.bin (application/octet-stream) in SYS2.SIMULA.LINKLIB, moved to SIMULA/ZYQHOLD
+2025-04-13 23:50:30.380439 - Found ZYQIDLE.bin (application/octet-stream) in SYS2.SIMULA.LINKLIB, moved to SIMULA/ZYQIDLE
+2025-04-13 23:50:30.380495 - Found alias ZYQIFEX to ZYQENT in SYS2.SIMULA.LINKLIB, moved to PDS/ZYQIFEX
+2025-04-13 23:50:30.380556 - Found ZYQINCHA.bin (application/octet-stream) in SYS2.SIMULA.LINKLIB, moved to SIMULA/ZYQINCHA
+2025-04-13 23:50:30.380612 - Found alias ZYQINFIL to ZYQENT in SYS2.SIMULA.LINKLIB, moved to PDS/ZYQINFIL
+2025-04-13 23:50:30.380671 - Found ZYQINFRA.bin (application/octet-stream) in SYS2.SIMULA.LINKLIB, moved to SIMULA/ZYQINFRA
+2025-04-13 23:50:30.380733 - Found ZYQININT.bin (application/octet-stream) in SYS2.SIMULA.LINKLIB, moved to SIMULA/ZYQININT
+2025-04-13 23:50:30.380793 - Found ZYQINIT.bin (application/octet-stream) in SYS2.SIMULA.LINKLIB, moved to SIMULA/ZYQINIT
+2025-04-13 23:50:30.380895 - Found ZYQINREA.bin (application/octet-stream) in SYS2.SIMULA.LINKLIB, moved to SIMULA/ZYQINREA
+2025-04-13 23:50:30.380981 - Found ZYQINTEX.bin (application/octet-stream) in SYS2.SIMULA.LINKLIB, moved to SIMULA/ZYQINTEX
+2025-04-13 23:50:30.381055 - Found alias ZYQINTO to ZYQSIMSC in SYS2.SIMULA.LINKLIB, moved to PDS/ZYQINTO
+2025-04-13 23:50:30.381113 - Found ZYQLACOS.bin (application/octet-stream) in SYS2.SIMULA.LINKLIB, moved to SIMULA/ZYQLACOS
+2025-04-13 23:50:30.381172 - Found alias ZYQLASIN to ZYQLACOS in SYS2.SIMULA.LINKLIB, moved to PDS/ZYQLASIN
+2025-04-13 23:50:30.381232 - Found alias ZYQLAST to ZYQSIMSC in SYS2.SIMULA.LINKLIB, moved to PDS/ZYQLAST
+2025-04-13 23:50:30.381298 - Found ZYQLASTI.bin (application/octet-stream) in SYS2.SIMULA.LINKLIB, moved to SIMULA/ZYQLASTI
+2025-04-13 23:50:30.381359 - Found alias ZYQLASTR to ZYQLASTI in SYS2.SIMULA.LINKLIB, moved to PDS/ZYQLASTR
+2025-04-13 23:50:30.381419 - Found ZYQLATAN.bin (application/octet-stream) in SYS2.SIMULA.LINKLIB, moved to SIMULA/ZYQLATAN
+2025-04-13 23:50:30.381481 - Found ZYQLCOS.bin (application/octet-stream) in SYS2.SIMULA.LINKLIB, moved to SIMULA/ZYQLCOS
+2025-04-13 23:50:30.381543 - Found ZYQLCOSH.bin (application/octet-stream) in SYS2.SIMULA.LINKLIB, moved to SIMULA/ZYQLCOSH
+2025-04-13 23:50:30.381610 - Found alias ZYQLCOTN to ZYQLTAN in SYS2.SIMULA.LINKLIB, moved to PDS/ZYQLCOTN
+2025-04-13 23:50:30.381669 - Found ZYQLDIG.bin (application/octet-stream) in SYS2.SIMULA.LINKLIB, moved to SIMULA/ZYQLDIG
+2025-04-13 23:50:30.381728 - Found ZYQLEXP.bin (application/octet-stream) in SYS2.SIMULA.LINKLIB, moved to SIMULA/ZYQLEXP
+2025-04-13 23:50:30.381784 - Found alias ZYQLINE to ZYQEJECT in SYS2.SIMULA.LINKLIB, moved to PDS/ZYQLINE
+2025-04-13 23:50:30.381843 - Found ZYQLINEA.bin (application/octet-stream) in SYS2.SIMULA.LINKLIB, moved to SIMULA/ZYQLINEA
+2025-04-13 23:50:30.381899 - Found alias ZYQLINES to ZYQEJECT in SYS2.SIMULA.LINKLIB, moved to PDS/ZYQLINES
+2025-04-13 23:50:30.381956 - Found alias ZYQLINK to ZYQSIMSC in SYS2.SIMULA.LINKLIB, moved to PDS/ZYQLINK
+2025-04-13 23:50:30.382008 - Found alias ZYQLINKA to ZYQSIMSC in SYS2.SIMULA.LINKLIB, moved to PDS/ZYQLINKA
+2025-04-13 23:50:30.382053 - Found alias ZYQLLG10 to ZYQLLN in SYS2.SIMULA.LINKLIB, moved to PDS/ZYQLLG10
+2025-04-13 23:50:30.382127 - Found ZYQLLN.bin (application/octet-stream) in SYS2.SIMULA.LINKLIB, moved to SIMULA/ZYQLLN
+2025-04-13 23:50:30.382192 - Found alias ZYQLNMAP to ZYQLNO in SYS2.SIMULA.LINKLIB, moved to PDS/ZYQLNMAP
+2025-04-13 23:50:30.382260 - Found ZYQLNO.bin (application/octet-stream) in SYS2.SIMULA.LINKLIB, moved to SIMULA/ZYQLNO
+2025-04-13 23:50:30.382338 - Found ZYQLNODT.bin (application/octet-stream) in SYS2.SIMULA.LINKLIB, moved to SIMULA/ZYQLNODT
+2025-04-13 23:50:30.382397 - Found alias ZYQLOCAN to ZYQDIREC in SYS2.SIMULA.LINKLIB, moved to PDS/ZYQLOCAN
+2025-04-13 23:50:30.382439 - Found alias ZYQLOCAT to ZYQDIREC in SYS2.SIMULA.LINKLIB, moved to PDS/ZYQLOCAT
+2025-04-13 23:50:30.382486 - Found alias ZYQLSIN to ZYQLCOS in SYS2.SIMULA.LINKLIB, moved to PDS/ZYQLSIN
+2025-04-13 23:50:30.382569 - Found alias ZYQLSINH to ZYQLCOSH in SYS2.SIMULA.LINKLIB, moved to PDS/ZYQLSINH
+2025-04-13 23:50:30.382671 - Found ZYQLSQRT.bin (application/octet-stream) in SYS2.SIMULA.LINKLIB, moved to SIMULA/ZYQLSQRT
+2025-04-13 23:50:30.382763 - Found ZYQLTAN.bin (application/octet-stream) in SYS2.SIMULA.LINKLIB, moved to SIMULA/ZYQLTAN
+2025-04-13 23:50:30.382849 - Found ZYQLTANH.bin (application/octet-stream) in SYS2.SIMULA.LINKLIB, moved to SIMULA/ZYQLTANH
+2025-04-13 23:50:30.382960 - Found alias ZYQMAINP to ZYQSIMUC in SYS2.SIMULA.LINKLIB, moved to PDS/ZYQMAINP
+2025-04-13 23:50:30.383050 - Found ZYQMAINT.bin (application/octet-stream) in SYS2.SIMULA.LINKLIB, moved to SIMULA/ZYQMAINT
+2025-04-13 23:50:30.383140 - Found ZYQMAP.bin (application/octet-stream) in SYS2.SIMULA.LINKLIB, moved to SIMULA/ZYQMAP
+2025-04-13 23:50:30.383237 - Found ZYQMAPTR.bin (application/octet-stream) in SYS2.SIMULA.LINKLIB, moved to SIMULA/ZYQMAPTR
+2025-04-13 23:50:30.383337 - Found ZYQMVCL.bin (application/octet-stream) in SYS2.SIMULA.LINKLIB, moved to SIMULA/ZYQMVCL
+2025-04-13 23:50:30.383409 - Found ZYQNEGEX.bin (application/octet-stream) in SYS2.SIMULA.LINKLIB, moved to SIMULA/ZYQNEGEX
+2025-04-13 23:50:30.383472 - Found ZYQNEXTE.bin (application/octet-stream) in SYS2.SIMULA.LINKLIB, moved to SIMULA/ZYQNEXTE
+2025-04-13 23:50:30.383535 - Found ZYQNORMA.bin (application/octet-stream) in SYS2.SIMULA.LINKLIB, moved to SIMULA/ZYQNORMA
+2025-04-13 23:50:30.383613 - Found alias ZYQOCLAS to ZYQTERMS in SYS2.SIMULA.LINKLIB, moved to PDS/ZYQOCLAS
+2025-04-13 23:50:30.383681 - Found alias ZYQOCODE to ZYQTERMS in SYS2.SIMULA.LINKLIB, moved to PDS/ZYQOCODE
+2025-04-13 23:50:30.383745 - Found ZYQODDNM.bin (application/octet-stream) in SYS2.SIMULA.LINKLIB, moved to SIMULA/ZYQODDNM
+2025-04-13 23:50:30.383829 - Found alias ZYQOPEN to ZYQENT in SYS2.SIMULA.LINKLIB, moved to PDS/ZYQOPEN
+2025-04-13 23:50:30.383900 - Found alias ZYQOPROC to ZYQTERMS in SYS2.SIMULA.LINKLIB, moved to PDS/ZYQOPROC
+2025-04-13 23:50:30.383954 - Found alias ZYQOUT to ZYQSIMSC in SYS2.SIMULA.LINKLIB, moved to PDS/ZYQOUT
+2025-04-13 23:50:30.384030 - Found ZYQOUTAR.bin (application/octet-stream) in SYS2.SIMULA.LINKLIB, moved to SIMULA/ZYQOUTAR
+2025-04-13 23:50:30.384096 - Found ZYQOUTBL.bin (application/octet-stream) in SYS2.SIMULA.LINKLIB, moved to SIMULA/ZYQOUTBL
+2025-04-13 23:50:30.384158 - Found alias ZYQOUTCH to ZYQINCHA in SYS2.SIMULA.LINKLIB, moved to PDS/ZYQOUTCH
+2025-04-13 23:50:30.384208 - Found alias ZYQOUTFI to ZYQOUTIM in SYS2.SIMULA.LINKLIB, moved to PDS/ZYQOUTFI
+2025-04-13 23:50:30.384274 - Found ZYQOUTFR.bin (application/octet-stream) in SYS2.SIMULA.LINKLIB, moved to SIMULA/ZYQOUTFR
+2025-04-13 23:50:30.384345 - Found ZYQOUTFX.bin (application/octet-stream) in SYS2.SIMULA.LINKLIB, moved to SIMULA/ZYQOUTFX
+2025-04-13 23:50:30.384408 - Found ZYQOUTIM.bin (application/octet-stream) in SYS2.SIMULA.LINKLIB, moved to SIMULA/ZYQOUTIM
+2025-04-13 23:50:30.384468 - Found ZYQOUTIN.bin (application/octet-stream) in SYS2.SIMULA.LINKLIB, moved to SIMULA/ZYQOUTIN
+2025-04-13 23:50:30.384528 - Found ZYQOUTIO.bin (application/octet-stream) in SYS2.SIMULA.LINKLIB, moved to SIMULA/ZYQOUTIO
+2025-04-13 23:50:30.384615 - Found ZYQOUTOC.bin (application/octet-stream) in SYS2.SIMULA.LINKLIB, moved to SIMULA/ZYQOUTOC
+2025-04-13 23:50:30.384699 - Found ZYQOUTPO.bin (application/octet-stream) in SYS2.SIMULA.LINKLIB, moved to SIMULA/ZYQOUTPO
+2025-04-13 23:50:30.384764 - Found ZYQOUTRE.bin (application/octet-stream) in SYS2.SIMULA.LINKLIB, moved to SIMULA/ZYQOUTRE
+2025-04-13 23:50:30.384824 - Found ZYQOUTSQ.bin (application/octet-stream) in SYS2.SIMULA.LINKLIB, moved to SIMULA/ZYQOUTSQ
+2025-04-13 23:50:30.384886 - Found ZYQOUTTE.bin (application/octet-stream) in SYS2.SIMULA.LINKLIB, moved to SIMULA/ZYQOUTTE
+2025-04-13 23:50:30.385001 - Found ZYQOUTVI.bin (application/octet-stream) in SYS2.SIMULA.LINKLIB, moved to SIMULA/ZYQOUTVI
+2025-04-13 23:50:30.385079 - Found alias ZYQPAGE to ZYQENT in SYS2.SIMULA.LINKLIB, moved to PDS/ZYQPAGE
+2025-04-13 23:50:30.385145 - Found ZYQPASSI.bin (application/octet-stream) in SYS2.SIMULA.LINKLIB, moved to SIMULA/ZYQPASSI
+2025-04-13 23:50:30.385241 - Found ZYQPFD.bin (application/octet-stream) in SYS2.SIMULA.LINKLIB, moved to SIMULA/ZYQPFD
+2025-04-13 23:50:30.385320 - Found ZYQPOISS.bin (application/octet-stream) in SYS2.SIMULA.LINKLIB, moved to SIMULA/ZYQPOISS
+2025-04-13 23:50:30.385387 - Found ZYQPRD.bin (application/octet-stream) in SYS2.SIMULA.LINKLIB, moved to SIMULA/ZYQPRD
+2025-04-13 23:50:30.385463 - Found alias ZYQPRECE to ZYQSIMSC in SYS2.SIMULA.LINKLIB, moved to PDS/ZYQPRECE
+2025-04-13 23:50:30.385518 - Found alias ZYQPRED to ZYQSIMSC in SYS2.SIMULA.LINKLIB, moved to PDS/ZYQPRED
+2025-04-13 23:50:30.385570 - Found alias ZYQPREV to ZYQSIMSC in SYS2.SIMULA.LINKLIB, moved to PDS/ZYQPREV
+2025-04-13 23:50:30.385611 - Found alias ZYQPRINT to ZYQENT in SYS2.SIMULA.LINKLIB, moved to PDS/ZYQPRINT
+2025-04-13 23:50:30.385664 - Found alias ZYQPROCE to ZYQSIMUC in SYS2.SIMULA.LINKLIB, moved to PDS/ZYQPROCE
+2025-04-13 23:50:30.385728 - Found ZYQPUTCH.bin (application/octet-stream) in SYS2.SIMULA.LINKLIB, moved to SIMULA/ZYQPUTCH
+2025-04-13 23:50:30.385809 - Found ZYQPUTFI.bin (application/octet-stream) in SYS2.SIMULA.LINKLIB, moved to SIMULA/ZYQPUTFI
+2025-04-13 23:50:30.385873 - Found ZYQPUTFR.bin (application/octet-stream) in SYS2.SIMULA.LINKLIB, moved to SIMULA/ZYQPUTFR
+2025-04-13 23:50:30.385951 - Found ZYQPUTIN.bin (application/octet-stream) in SYS2.SIMULA.LINKLIB, moved to SIMULA/ZYQPUTIN
+2025-04-13 23:50:30.386064 - Found ZYQPUTRE.bin (application/octet-stream) in SYS2.SIMULA.LINKLIB, moved to SIMULA/ZYQPUTRE
+2025-04-13 23:50:30.386167 - Found ZYQQUA.bin (application/octet-stream) in SYS2.SIMULA.LINKLIB, moved to SIMULA/ZYQQUA
+2025-04-13 23:50:30.386234 - Found ZYQRANDI.bin (application/octet-stream) in SYS2.SIMULA.LINKLIB, moved to SIMULA/ZYQRANDI
+2025-04-13 23:50:30.386312 - Found ZYQRDAT.bin (application/octet-stream) in SYS2.SIMULA.LINKLIB, moved to SIMULA/ZYQRDAT
+2025-04-13 23:50:30.386374 - Found alias ZYQREFER to ZYQACC in SYS2.SIMULA.LINKLIB, moved to PDS/ZYQREFER
+2025-04-13 23:50:30.386417 - Found alias ZYQRESET to ZYQENT in SYS2.SIMULA.LINKLIB, moved to PDS/ZYQRESET
+2025-04-13 23:50:30.386481 - Found ZYQRESUM.bin (application/octet-stream) in SYS2.SIMULA.LINKLIB, moved to SIMULA/ZYQRESUM
+2025-04-13 23:50:30.386552 - Found alias ZYQRSM to ZYQSIMUC in SYS2.SIMULA.LINKLIB, moved to PDS/ZYQRSM
+2025-04-13 23:50:30.386607 - Found alias ZYQRSUME to ZYQRESUM in SYS2.SIMULA.LINKLIB, moved to PDS/ZYQRSUME
+2025-04-13 23:50:30.386668 - Found ZYQRTSCM.bin (application/octet-stream) in SYS2.SIMULA.LINKLIB, moved to SIMULA/ZYQRTSCM
+2025-04-13 23:50:30.386757 - Found ZYQRXPI.bin (application/octet-stream) in SYS2.SIMULA.LINKLIB, moved to SIMULA/ZYQRXPI
+2025-04-13 23:50:30.386839 - Found ZYQRXPR.bin (application/octet-stream) in SYS2.SIMULA.LINKLIB, moved to SIMULA/ZYQRXPR
+2025-04-13 23:50:30.386904 - Found ZYQSACOS.bin (application/octet-stream) in SYS2.SIMULA.LINKLIB, moved to SIMULA/ZYQSACOS
+2025-04-13 23:50:30.386976 - Found alias ZYQSASIN to ZYQSACOS in SYS2.SIMULA.LINKLIB, moved to PDS/ZYQSASIN
+2025-04-13 23:50:30.387038 - Found ZYQSATAN.bin (application/octet-stream) in SYS2.SIMULA.LINKLIB, moved to SIMULA/ZYQSATAN
+2025-04-13 23:50:30.387102 - Found ZYQSCALE.bin (application/octet-stream) in SYS2.SIMULA.LINKLIB, moved to SIMULA/ZYQSCALE
+2025-04-13 23:50:30.387194 - Found ZYQSCOS.bin (application/octet-stream) in SYS2.SIMULA.LINKLIB, moved to SIMULA/ZYQSCOS
+2025-04-13 23:50:30.387279 - Found alias ZYQSCOSH to ZYQSSINH in SYS2.SIMULA.LINKLIB, moved to PDS/ZYQSCOSH
+2025-04-13 23:50:30.387349 - Found alias ZYQSCOTN to ZYQSTAN in SYS2.SIMULA.LINKLIB, moved to PDS/ZYQSCOTN
+2025-04-13 23:50:30.387416 - Found ZYQSETPO.bin (application/octet-stream) in SYS2.SIMULA.LINKLIB, moved to SIMULA/ZYQSETPO
+2025-04-13 23:50:30.387483 - Found ZYQSEXP.bin (application/octet-stream) in SYS2.SIMULA.LINKLIB, moved to SIMULA/ZYQSEXP
+2025-04-13 23:50:30.387547 - Found ZYQSIMSC.bin (application/octet-stream) in SYS2.SIMULA.LINKLIB, moved to SIMULA/ZYQSIMSC
+2025-04-13 23:50:30.387621 - Found alias ZYQSIMSE to ZYQSIMSC in SYS2.SIMULA.LINKLIB, moved to PDS/ZYQSIMSE
+2025-04-13 23:50:30.387681 - Found ZYQSIMUC.bin (application/octet-stream) in SYS2.SIMULA.LINKLIB, moved to SIMULA/ZYQSIMUC
+2025-04-13 23:50:30.387764 - Found alias ZYQSIMUL to ZYQSIMUC in SYS2.SIMULA.LINKLIB, moved to PDS/ZYQSIMUL
+2025-04-13 23:50:30.387830 - Found ZYQSIMUP.bin (application/octet-stream) in SYS2.SIMULA.LINKLIB, moved to SIMULA/ZYQSIMUP
+2025-04-13 23:50:30.387901 - Found alias ZYQSLG10 to ZYQSLN in SYS2.SIMULA.LINKLIB, moved to PDS/ZYQSLG10
+2025-04-13 23:50:30.388018 - Found ZYQSLN.bin (application/octet-stream) in SYS2.SIMULA.LINKLIB, moved to SIMULA/ZYQSLN
+2025-04-13 23:50:30.388087 - Found ZYQSNAP.bin (application/octet-stream) in SYS2.SIMULA.LINKLIB, moved to SIMULA/ZYQSNAP
+2025-04-13 23:50:30.388144 - Found alias ZYQSPACI to ZYQEJECT in SYS2.SIMULA.LINKLIB, moved to PDS/ZYQSPACI
+2025-04-13 23:50:30.388197 - Found alias ZYQSSIN to ZYQSCOS in SYS2.SIMULA.LINKLIB, moved to PDS/ZYQSSIN
+2025-04-13 23:50:30.388256 - Found ZYQSSINH.bin (application/octet-stream) in SYS2.SIMULA.LINKLIB, moved to SIMULA/ZYQSSINH
+2025-04-13 23:50:30.388338 - Found ZYQSSQRT.bin (application/octet-stream) in SYS2.SIMULA.LINKLIB, moved to SIMULA/ZYQSSQRT
+2025-04-13 23:50:30.388417 - Found ZYQSTAN.bin (application/octet-stream) in SYS2.SIMULA.LINKLIB, moved to SIMULA/ZYQSTAN
+2025-04-13 23:50:30.388480 - Found ZYQSTANH.bin (application/octet-stream) in SYS2.SIMULA.LINKLIB, moved to SIMULA/ZYQSTANH
+2025-04-13 23:50:30.388541 - Found ZYQSTCDA.bin (application/octet-stream) in SYS2.SIMULA.LINKLIB, moved to SIMULA/ZYQSTCDA
+2025-04-13 23:50:30.388602 - Found alias ZYQSTCNT to ZYQENT in SYS2.SIMULA.LINKLIB, moved to PDS/ZYQSTCNT
+2025-04-13 23:50:30.388679 - Found ZYQSTORE.bin (application/octet-stream) in SYS2.SIMULA.LINKLIB, moved to SIMULA/ZYQSTORE
+2025-04-13 23:50:30.388781 - Found ZYQSTRIP.bin (application/octet-stream) in SYS2.SIMULA.LINKLIB, moved to SIMULA/ZYQSTRIP
+2025-04-13 23:50:30.388857 - Found ZYQSUB.bin (application/octet-stream) in SYS2.SIMULA.LINKLIB, moved to SIMULA/ZYQSUB
+2025-04-13 23:50:30.388951 - Found alias ZYQSUC to ZYQSIMSC in SYS2.SIMULA.LINKLIB, moved to PDS/ZYQSUC
+2025-04-13 23:50:30.388995 - Found alias ZYQSYN to ZYQENT in SYS2.SIMULA.LINKLIB, moved to PDS/ZYQSYN
+2025-04-13 23:50:30.389064 - Found ZYQTERM.bin (application/octet-stream) in SYS2.SIMULA.LINKLIB, moved to SIMULA/ZYQTERM
+2025-04-13 23:50:30.389130 - Found ZYQTERMI.bin (application/octet-stream) in SYS2.SIMULA.LINKLIB, moved to SIMULA/ZYQTERMI
+2025-04-13 23:50:30.389192 - Found ZYQTERMS.bin (application/octet-stream) in SYS2.SIMULA.LINKLIB, moved to SIMULA/ZYQTERMS
+2025-04-13 23:50:30.389253 - Found ZYQTIME.bin (application/octet-stream) in SYS2.SIMULA.LINKLIB, moved to SIMULA/ZYQTIME
+2025-04-13 23:50:30.389314 - Found ZYQTIMEX.bin (application/octet-stream) in SYS2.SIMULA.LINKLIB, moved to SIMULA/ZYQTIMEX
+2025-04-13 23:50:30.389385 - Found ZYQTRACD.bin (application/octet-stream) in SYS2.SIMULA.LINKLIB, moved to SIMULA/ZYQTRACD
+2025-04-13 23:50:30.389466 - Found ZYQTRACE.bin (application/octet-stream) in SYS2.SIMULA.LINKLIB, moved to SIMULA/ZYQTRACE
+2025-04-13 23:50:30.389547 - Found ZYQTSPIE.bin (application/octet-stream) in SYS2.SIMULA.LINKLIB, moved to SIMULA/ZYQTSPIE
+2025-04-13 23:50:30.389608 - Found ZYQTVASS.bin (application/octet-stream) in SYS2.SIMULA.LINKLIB, moved to SIMULA/ZYQTVASS
+2025-04-13 23:50:30.389669 - Found ZYQTVREL.bin (application/octet-stream) in SYS2.SIMULA.LINKLIB, moved to SIMULA/ZYQTVREL
+2025-04-13 23:50:30.389731 - Found ZYQTXTCM.bin (application/octet-stream) in SYS2.SIMULA.LINKLIB, moved to SIMULA/ZYQTXTCM
+2025-04-13 23:50:30.389792 - Found ZYQUNIFO.bin (application/octet-stream) in SYS2.SIMULA.LINKLIB, moved to SIMULA/ZYQUNIFO
+2025-04-13 23:50:30.389854 - Found ZYQUSERX.bin (application/octet-stream) in SYS2.SIMULA.LINKLIB, moved to SIMULA/ZYQUSERX
+2025-04-13 23:50:30.389915 - Found ZYQWAIT.bin (application/octet-stream) in SYS2.SIMULA.LINKLIB, moved to SIMULA/ZYQWAIT
+2025-04-13 23:50:30.389976 - Found alias ZYQWRITE to ZYQENT in SYS2.SIMULA.LINKLIB, moved to PDS/ZYQWRITE
+2025-04-13 23:50:30.393917 - Found SLP00.pdf (application/pdf) in CBT.V508.FILE890.PDS, moved to docs/SLP00.pdf
+2025-04-13 23:50:30.394309 - Found SLP01.pdf (application/pdf) in CBT.V508.FILE890.PDS, moved to docs/SLP01.pdf
+2025-04-13 23:50:30.394544 - Found SLP02.pdf (application/pdf) in CBT.V508.FILE890.PDS, moved to docs/SLP02.pdf
+2025-04-13 23:50:30.394966 - Found SLP03.pdf (application/pdf) in CBT.V508.FILE890.PDS, moved to docs/SLP03.pdf
+2025-04-13 23:50:30.395342 - Found SLP04.pdf (application/pdf) in CBT.V508.FILE890.PDS, moved to docs/SLP04.pdf
+2025-04-13 23:50:30.395644 - Found SLP05.pdf (application/pdf) in CBT.V508.FILE890.PDS, moved to docs/SLP05.pdf
+2025-04-13 23:50:30.395793 - Found SLP06.pdf (application/pdf) in CBT.V508.FILE890.PDS, moved to docs/SLP06.pdf
+2025-04-13 23:50:30.396006 - Found SLP07.pdf (application/pdf) in CBT.V508.FILE890.PDS, moved to docs/SLP07.pdf
+2025-04-13 23:50:30.396369 - Found SLP08.pdf (application/pdf) in CBT.V508.FILE890.PDS, moved to docs/SLP08.pdf
+2025-04-13 23:50:30.396594 - Found SLP09.pdf (application/pdf) in CBT.V508.FILE890.PDS, moved to docs/SLP09.pdf
+2025-04-13 23:50:30.396888 - Found SLP10.pdf (application/pdf) in CBT.V508.FILE890.PDS, moved to docs/SLP10.pdf
+2025-04-13 23:50:30.397342 - Found SLP11.pdf (application/pdf) in CBT.V508.FILE890.PDS, moved to docs/SLP11.pdf
+2025-04-13 23:50:30.397967 - Found SLP12.pdf (application/pdf) in CBT.V508.FILE890.PDS, moved to docs/SLP12.pdf
+2025-04-13 23:50:30.398546 - Found SLP13.pdf (application/pdf) in CBT.V508.FILE890.PDS, moved to docs/SLP13.pdf
+2025-04-13 23:50:30.398764 - Found SPG00.pdf (application/pdf) in CBT.V508.FILE890.PDS, moved to docs/SPG00.pdf
+2025-04-13 23:50:30.398859 - Found SPG01.pdf (application/pdf) in CBT.V508.FILE890.PDS, moved to docs/SPG01.pdf
+2025-04-13 23:50:30.399864 - Found SPG02.pdf (application/pdf) in CBT.V508.FILE890.PDS, moved to docs/SPG02.pdf
+2025-04-13 23:50:30.400124 - Found SPG03.pdf (application/pdf) in CBT.V508.FILE890.PDS, moved to docs/SPG03.pdf
+2025-04-13 23:50:30.400505 - Found SPG04.pdf (application/pdf) in CBT.V508.FILE890.PDS, moved to docs/SPG04.pdf
+2025-04-13 23:50:30.401233 - Found SPG05.pdf (application/pdf) in CBT.V508.FILE890.PDS, moved to docs/SPG05.pdf
+2025-04-13 23:50:30.401986 - Found SPG06.pdf (application/pdf) in CBT.V508.FILE890.PDS, moved to docs/SPG06.pdf
+2025-04-13 23:50:30.402593 - Found SPG07.pdf (application/pdf) in CBT.V508.FILE890.PDS, moved to docs/SPG07.pdf
+2025-04-13 23:50:30.402804 - Found SPG9A.pdf (application/pdf) in CBT.V508.FILE890.PDS, moved to docs/SPG9A.pdf
+2025-04-13 23:50:30.403994 - Found SPG9B.pdf (application/pdf) in CBT.V508.FILE890.PDS, moved to docs/SPG9B.pdf
+2025-04-13 23:50:30.404444 - Found SPG9C.pdf (application/pdf) in CBT.V508.FILE890.PDS, moved to docs/SPG9C.pdf
+2025-04-13 23:50:30.404681 - Found SPG9D.pdf (application/pdf) in CBT.V508.FILE890.PDS, moved to docs/SPG9D.pdf
+2025-04-13 23:50:30.404787 - Found SPG9E.pdf (application/pdf) in CBT.V508.FILE890.PDS, moved to docs/SPG9E.pdf
+2025-04-13 23:50:30.404910 - Found SPG9F.pdf (application/pdf) in CBT.V508.FILE890.PDS, moved to docs/SPG9F.pdf
+2025-04-13 23:50:30.405023 - Found SPG9G.pdf (application/pdf) in CBT.V508.FILE890.PDS, moved to docs/SPG9G.pdf
+2025-04-13 23:50:30.405102 - Found SPG9H.pdf (application/pdf) in CBT.V508.FILE890.PDS, moved to docs/SPG9H.pdf
+2025-04-13 23:50:30.405283 - Found SPG9I.pdf (application/pdf) in CBT.V508.FILE890.PDS, moved to docs/SPG9I.pdf
+2025-04-13 23:50:30.405453 - Found SPG9J.pdf (application/pdf) in CBT.V508.FILE890.PDS, moved to docs/SPG9J.pdf
+2025-04-13 23:50:30.405564 - Found SPG9K.pdf (application/pdf) in CBT.V508.FILE890.PDS, moved to docs/SPG9K.pdf
+2025-04-13 23:50:30.405700 - Found SUG00.pdf (application/pdf) in CBT.V508.FILE890.PDS, moved to docs/SUG00.pdf
+2025-04-13 23:50:30.406386 - Found SUG01.pdf (application/pdf) in CBT.V508.FILE890.PDS, moved to docs/SUG01.pdf
+2025-04-13 23:50:30.407983 - Found SUG02.pdf (application/pdf) in CBT.V508.FILE890.PDS, moved to docs/SUG02.pdf
+2025-04-13 23:50:30.409367 - Found SUG03.pdf (application/pdf) in CBT.V508.FILE890.PDS, moved to docs/SUG03.pdf
+2025-04-13 23:50:30.410188 - Found SUG9A.pdf (application/pdf) in CBT.V508.FILE890.PDS, moved to docs/SUG9A.pdf
+2025-04-13 23:50:30.411061 - Found SUG9R.pdf (application/pdf) in CBT.V508.FILE890.PDS, moved to docs/SUG9R.pdf
+2025-04-13 23:50:30.411148 - Found ZOSZAP.jcl (text/plain) in CBT.V508.FILE890.PDS, moved to PDS/ZOSZAP
+2025-04-13 23:50:30.411225 - Found ZOSZAP1.jcl (text/plain) in CBT.V508.FILE890.PDS, moved to PDS/ZOSZAP1
